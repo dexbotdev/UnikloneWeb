@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+.heroIcon,
+.landingChild {
+  position: absolute;
+  object-fit: cover;
+}
+.landingChild {
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 113.63rem;
+}
+.heroIcon {
+  top: 13.63rem;
+  left: 27.5rem;
+  width: 36rem;
+  height: 30rem;
+}
+.token {
+  background: linear-gradient(90.96deg, #1f8ebe, #ae61ed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.createYourOwnContainer {
+  position: relative;
+  font-weight: 800;
+  font-family: Montserrat;
+  font-size: 42px;
+  font-weight: 800;
+  color:white;
+  margin:auto;
+}
+.groupChild {
+  position: absolute;
+  top: 10.38rem;
+  left: 0.94rem;
+  border-radius: 10px;
+  background-color: #131129;
+  width: 18.75rem;
+  height: 18.5rem;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20.69rem;
+  height: 19.31rem;
+  object-fit: cover;
+}
+.multichain {
+  position: relative;
+  font-weight: 600;
+}
+.withUniklone {
+  margin: 0;
+}
+.withUnikloneYouContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.withUnikloneYouContainer {
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 15.31rem;
+}
+.frameWrapper,
+.multichainParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.multichainParent {
+  align-items: center;
+  gap: 0.94rem;
+}
+.frameWrapper {
+  position: absolute;
+  top: 17.06rem;
+  left: 2.81rem;
+  align-items: flex-start;
+}
+.rectangleParent {
+  position: relative;
+  width: 20.69rem;
+  height: 28.88rem;
+}
+.groupInner {
+  position: absolute;
+  top: 10.38rem;
+  left: 0.94rem;
+  border-radius: 10px;
+  background-color: #131129;
+  width: 18.75rem;
+  height: 18.18rem;
+}
+.groupIcon {
+  position: absolute;
+  height: 67.61%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 32.39%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.unikloneCreatesSeperateContainer {
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  display: flex;
+  align-items: center;
+  width: 15.31rem;
+}
+.frameContainer {
+  position: absolute;
+  top: 15.47rem;
+  left: 2.69rem;
+  height: 9.88rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rectangleGroup {
+  position: relative;
+  width: 20.69rem;
+  height: 28.56rem;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 10.21rem;
+  left: 0.94rem;
+  border-radius: 10px;
+  background-color: #131129;
+  width: 18.75rem;
+  height: 18.23rem;
+}
+.groupChild1 {
+  position: absolute;
+  height: 67.91%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 32.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.unikoleAiDrivenArchitecture {
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15.31rem;
+}
+.frameDiv {
+  position: absolute;
+  top: 15.46rem;
+  left: 2.81rem;
+  height: 6.29rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleContainer {
+  position: relative;
+  width: 20.69rem;
+  height: 28.44rem;
+}
+.groupChild2 {
+  position: absolute;
+  top: 10.36rem;
+  left: 0.91rem;
+  border-radius: 10px;
+  background-color: #131129;
+  width: 18.75rem;
+  height: 18.32rem;
+}
+.groupChild3 {
+  position: absolute;
+  height: 67.32%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 32.68%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frameWrapper1 {
+  position: absolute;
+  top: 16.63rem;
+  left: 2.66rem;
+  height: 6.37rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.groupDiv {
+  position: relative;
+  width: 20.69rem;
+  height: 28.69rem;
+}
+.ourVertical,
+.ourVertical1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.ourVertical1 {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 1.88rem;
+  font-size: 1.5rem;
+}
+.ourVertical {
+  position: absolute;
+  top: 49.94rem;
+  left: 0;
+  width: 90.19rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 5rem;
+}
+.logoIcon {
+  position: relative;
+  width: 33.38rem;
+  height: 4rem;
+  object-fit: cover;
+}
+.chart {
+  position: relative;
+  line-height: 139.52%;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+.button {
+  border-radius: 8px;
+  background: linear-gradient(91.99deg, #1f8ebe, #ae61ed);
+  box-shadow: 0 17px 33px rgba(255, 255, 255, 0.2);
+  height: 2.63rem;
+  padding: 0.75rem 1.5rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.button,
+.buttonParent,
+.header {
+  display: flex;
+  flex-direction: row;
+}
+.buttonParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.94rem;
+}
+.header {
+  position: absolute;
+  
+  left: 3.75rem;
+  width: 82.5rem;
+  height: 8rem;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 0.88rem;
+}
+.image2Icon,
+.image3Icon,
+.image4Icon {
+  position: relative;
+  width: 12.5rem;
+  height: 6.25rem;
+  object-fit: cover;
+}
+.image3Icon,
+.image4Icon {
+  width: 11.75rem;
+  height: 5.44rem;
+}
+.image4Icon {
+  width: 17.56rem;
+  height: 5.5rem;
+}
+.image2Parent,
+.ourPartners {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.13rem;
+}
+.ourPartners {
+  position: absolute;
+  top: 89.25rem;
+  left: 7.75rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 4.38rem;
+}
+.landing {
+  position: relative;
+  background: linear-gradient(180deg, #000, #000);
+  width: 100%;
+  height: 113.63rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 3rem;
+  color: #fff;
+  font-family: Montserrat;
+}
+
+.featurehdr{
+  color: #fff;
+  font-family: Montserrat;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.featurehdr{
+  color: #fff;
+  font-family: Montserrat;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
