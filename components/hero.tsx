@@ -22,10 +22,8 @@ export default function Hero() {
 
         {/* Hero content */}
         <div className="relative  md:pt-20 "> 
-           <img src="/images/eth.png" width="40%" style={{"margin":"auto"}} className='moveArrow'/>  
-          
-        <div className="lightning flashit"></div>
-        </div>
+           <img src="/images/eth.png" width="40%" style={{"margin":"auto"}} className='moveArrow'/>   
+         </div>
         
       </div>
     </section>
