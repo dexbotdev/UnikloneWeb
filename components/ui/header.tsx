@@ -21,7 +21,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="#"
+                  href="https://t.me/uniklonebot"
                   className="button"
                 >
                   Open Bot
