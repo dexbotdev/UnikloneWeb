@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'UniKlone',
+  description: 'Multichain Token launcher Bot',
 }
 
 import Hero from '@/components/hero'
