@@ -17,21 +17,21 @@ export default function Features() {
 
             {/* 1st item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
-               <img src="/images/0_1.svg" style={{"marginTop":"-25px"}}/>
+               <img src="/images/0_1.svg" style={{"marginTop":"-25px"}} width="40%" />
               <h4 className="featurehdr">MultiChain</h4>
               <p className="text-lg text-gray-400 text-center">With UniKlone you will be able to launch Token’s on any of the 4 Major chains.</p>
             </div>
 
             {/* 2nd item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="100" data-aos-anchor="[data-aos-id-blocks]">
-            <img src="/images/0_2.svg" style={{"marginTop":"-25px"}}/>
+            <img src="/images/0_2.svg" style={{"marginTop":"-25px"}} width="40%" />
             <h4 className="featurehdr">Security</h4>
               <p className="text-lg text-gray-400 text-center">UniKlone creates Seperate Address for each Deployer for High Security</p>
             </div>
 
             {/* 3rd item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-blocks]">
-            <img src="/images/0_3.svg" style={{"marginTop":"-25px"}}/>
+            <img src="/images/0_3.svg" style={{"marginTop":"-25px"}} width="40%" />
             <h4 className="featurehdr">Ai - Driven</h4>
             <p className="text-lg text-gray-400 text-center">UniKlone Ai-Driven Architecture allows users to Launch Custom
                   Tokens</p>
@@ -39,7 +39,7 @@ export default function Features() {
 
             {/* 4th item */}
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="300" data-aos-anchor="[data-aos-id-blocks]">
-            <img src="/images/0_4.svg" style={{"marginTop":"-25px"}}/>
+            <img src="/images/0_4.svg" style={{"marginTop":"-25px"}} width="40%" />
             <h4 className="featurehdr">High Availability</h4>
             
             <p className="text-lg text-gray-400 text-center">With Multiple Servers backing our Bot, the service is made Highly Available to all.</p>
