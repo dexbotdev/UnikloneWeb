@@ -22,7 +22,7 @@ export default function Hero() {
 
         {/* Hero content */}
         <div className="relative  md:pt-40 "> 
-           <img src="/images/eth.png" width="50%" style={{"margin":"auto"}} />  
+           <img src="/images/eth.png" width="40%" style={{"margin":"auto"}} className='moveArrow'/>  
         </div>
         
       </div>

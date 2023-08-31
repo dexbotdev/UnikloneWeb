@@ -346,3 +346,15 @@
   font-weight: 600;
   font-size: 1.5rem;
 }
+
+.moveArrow {
+  animation-name : mymove;
+  animation-iteration-count : infinite;
+  animation-direction : alternate;
+  animation-duration : 1s;
+}
+
+@keyframes mymove {
+  from {transform: translateY(0px);}
+  to {transform: translateY(25px);}
+}
