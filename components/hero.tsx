@@ -21,8 +21,10 @@ export default function Hero() {
         </div>
 
         {/* Hero content */}
-        <div className="relative  md:pt-40 "> 
+        <div className="relative  md:pt-20 "> 
            <img src="/images/eth.png" width="40%" style={{"margin":"auto"}} className='moveArrow'/>  
+          
+        <div className="lightning flashit"></div>
         </div>
         
       </div>
